@@ -3,3 +3,5 @@ Hello. This is file A
 
 
 ///////// This comment is added from remote
+
+///////// This is second change and with commit message
